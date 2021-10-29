@@ -1,0 +1,24 @@
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    color: white;
+}
+
+.blue {
+    background-color: #006cfa;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.col {
+    float: left;
+
+}
