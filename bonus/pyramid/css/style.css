@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+
+.box {
+    height: 50px;
+    color: white;
+    border: 1px solid white;
+    background-color: #006cfa;
+    text-align: center;
+    line-height: 50px;
+}
+
+.box-small {
+    height: 25px;
+    color: white;
+    border: 1px solid white;
+    background-color: #00bf58;
+    text-align: center;
+    line-height: 25px;
+}
